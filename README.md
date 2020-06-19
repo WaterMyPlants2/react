@@ -1,2 +1,8 @@
-# react
-This is the repository for the react team for WaterMyPlants2
+- Dependencies/Frameworks used in this React App
+    - CRA
+    - Axios
+    - Redux / React-redux
+    - YUP
+
+- Project Link :
+
