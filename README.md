@@ -4,5 +4,6 @@
     - Redux / React-redux
     - YUP
 
-- Project Link :
+- Project Link : watermyplants-app.now.sh
+
 
